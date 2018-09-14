@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 """Utility to get s3 website endpoint."""
 
 from collections import namedtuple
