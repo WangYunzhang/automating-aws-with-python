@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
     name='webotron-80',
     version='0.1',
-    author='Robin Norwood',
+    author='Yunzhang Wang',
     author_email='wangyz180@gmail.com',
     description='Webotron 80 is a tool to deploy static websites to AWS.',
     license='GPLv3+',
